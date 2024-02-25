@@ -34,7 +34,7 @@ Currently I'm focused on building responsive front-end web applications while le
 
 <h2>Connect with me </h3>
     <p>
-        <a href="https://linkedin.com/in/rahulgore7"><img src="https://img.shields.io/badge/-Rahul20Gore%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/rahulgore7" alt="LinkedIn Badge"></a> 
+        <a href="https://linkedin.com/in/rahulgore7"><img src="https://img.shields.io/badge/-Rahul Gore%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/rahulgore7" alt="LinkedIn Badge"></a> 
        <a href="https://twitter.com/@rahulgore7
 /"><img src="https://img.shields.io/badge/-Rahul Gore-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
    </p>
