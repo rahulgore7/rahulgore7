@@ -16,8 +16,7 @@
 ---
 ✨ I'm a full stack engineer and technical writer passionate about making the web accessible to everyone and advocating for building open and inclusive developer communities. 
 
-I love sharing my knowledge with others, and I do that through content creation on my Blog and YouTube channel. When I'm not coding, you can find me geeking about poetry and exploring different ways of documenting stories using business ideasw.
-
+Currently I'm focused on building responsive front-end web applications while learning back-end technologies. I specialize in building mobile responsive front-end UI applications that connect with API’s and other backend technologies
 
 <!-- code gif-->
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
