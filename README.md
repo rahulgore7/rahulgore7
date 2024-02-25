@@ -25,7 +25,7 @@ Currently I'm focused on building responsive front-end web applications while le
 
 - 💬 Ask me about: Next, React, Node , Express
 
-- 📫 How to reach me: [@lauragift_](https://twitter.com/raaoul7_)
+- 📫 How to reach me: [@raaoul7](https://twitter.com/raaoul7_)
 
 <!-- About section: END -->
 
