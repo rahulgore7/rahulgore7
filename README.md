@@ -8,7 +8,6 @@
 
 <p align="center">
   <a href="https://rahulgore7.github.io/personal-portfolio/">Website</a> •
-  <a href="https://twitter.com/raaoul7">Twitter</a>
 </p>
 
  <!-- About section -->
